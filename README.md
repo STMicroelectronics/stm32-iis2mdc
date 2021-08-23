@@ -1,1 +1,1 @@
-# stm32-Iis2mdc
+# stm32-iis2mdc
