@@ -31,6 +31,4 @@ Please refer to the repository of the BSP **board** driver you are using to know
 
 ## Troubleshooting
 
-If you have any issue with the **software content** of this repository, you can file an issue [here](https://github.com/STMicroelectronics/stm32-iis2mdc/issues/new).
-
-For any other question related to the product, the tools, the environment, you can submit a post to the **ST Community** on the appropriate topic [page](https://community.st.com/s/topiccatalog).
+Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) guide.
